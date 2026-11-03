@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" fill="none">
+  <rect width="800" height="960" fill="#F7E9E6"/>
+  <!-- Manchas orgânicas aquareladas suaves -->
+  <circle cx="640" cy="180" r="210" fill="#E6EFE9" opacity="0.8"/>
+  <circle cx="140" cy="780" r="220" fill="#F2DAD5" opacity="0.8"/>
+
+  <!-- Moldura interna delicada -->
+  <rect x="60" y="60" width="680" height="840" rx="180" fill="#FDFBF9" stroke="#E5C8C3" stroke-width="2"/>
+
+  <!-- Ilustração delicada de retrato feminino + ramos botânicos -->
+  <g opacity="0.85">
+    <circle cx="400" cy="390" r="105" fill="#F3DDD8" stroke="#B8736A" stroke-width="2"/>
+    <path d="M215 840C230 660 300 570 400 570C500 570 570 660 585 840" fill="#DCE7DF" stroke="#7E9987" stroke-width="2"/>
+    <!-- Folhinhas decorativas -->
+    <path d="M560 520C590 470 610 410 600 350" stroke="#7E9987" stroke-width="2.2" stroke-linecap="round"/>
+    <ellipse cx="578" cy="445" rx="20" ry="10" transform="rotate(-30 578 445)" fill="#A3B9AA"/>
+    <ellipse cx="608" cy="395" rx="20" ry="10" transform="rotate(25 608 395)" fill="#A3B9AA"/>
+    <circle cx="240" cy="280" r="8" fill="#E5B5AE"/>
+    <circle cx="570" cy="250" r="6" fill="#E5B5AE"/>
+  </g>
+
+  <!-- Rótulo fofo e discreto -->
+  <rect x="170" y="745" width="460" height="92" rx="46" fill="#FDFBF9" stroke="#E5C8C3" stroke-width="1.5"/>
+  <text x="400" y="786" text-anchor="middle" font-family="'Lora', Georgia, serif" font-size="19" font-weight="600" fill="#4A3B36">Foto da Psicóloga Paula Brisola</text>
+  <text x="400" y="814" text-anchor="middle" font-family="'Nunito', sans-serif" font-size="13.5" fill="#9A7B74">Substituir: assets/images/paula-hero.svg</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" fill="none">
+  <rect width="900" height="640" fill="#E8E1D8"/>
+  <rect x="260" y="140" width="380" height="280" rx="12" fill="#D4C9BC"/>
+  <rect x="220" y="485" width="460" height="84" rx="8" fill="#FFFFFF" fill-opacity="0.92"/>
+  <text x="450" y="523" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#2E2A27">Foto — Consultório / Ambiente</text>
+  <text x="450" y="549" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#7A6B60">Substituir arquivo: assets/images/consultorio-ambiente.svg</text>
+</svg>

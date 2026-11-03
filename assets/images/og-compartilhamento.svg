@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F7F3EE"/>
+  <circle cx="1050" cy="120" r="260" fill="#A85D48" opacity="0.1"/>
+  <circle cx="120" cy="540" r="240" fill="#4A5D4E" opacity="0.1"/>
+  <rect x="44" y="44" width="1112" height="542" rx="24" stroke="#A85D48" stroke-width="1.5" stroke-opacity="0.35"/>
+  <text x="100" y="150" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="600" letter-spacing="3.5" fill="#A85D48">PSICOLOGIA CLÍNICA • ONLINE E PRESENCIAL</text>
+  <text x="100" y="255" font-family="Georgia, serif" font-size="68" font-weight="600" fill="#26211E">Paula Brisola</text>
+  <text x="100" y="330" font-family="Georgia, serif" font-size="36" font-style="italic" fill="#5A514A">Um espaço seguro de escuta, acolhimento e transformação emocional.</text>
+  <text x="100" y="420" font-family="'Plus Jakarta Sans', sans-serif" font-size="22" fill="#3B4B3F">WhatsApp: (15) 99743-0186  •  Instagram: @psipaulabrisola</text>
+  <rect x="100" y="475" width="660" height="60" rx="12" fill="#26211E" fill-opacity="0.9"/>
+  <text x="430" y="511" text-anchor="middle" font-family="monospace" font-size="16" fill="#EFE8DE">FAKE OG IMAGE: assets/images/og-compartilhamento.svg (1200×630px)</text>
+</svg>
